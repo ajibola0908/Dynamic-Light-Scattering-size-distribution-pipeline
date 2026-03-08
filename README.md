@@ -1,5 +1,5 @@
 # Dynamic-Light-Scattering-size-distribution-pipeline
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/)
 
 A comprehensive Python pipeline for processing Dynamic Light Scattering (DLS) data from Malvern Zetasizer instruments. This tool automates the analysis of nanoparticle size distributions across different processing conditions, with adaptive peak detection, statistical analysis, and publication-quality visualization.
